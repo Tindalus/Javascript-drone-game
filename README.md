@@ -1,7 +1,7 @@
 # Javascript-drone-game
 
 **A simple "game" I have made when I started learning javascript.**  
-![game](/resources/game.gif)  
+<img src="/resources/game.gif" width="600" height="600"/>
 
 You will notice that script is pretty inconsistent in tearms of different javascript technics. This is because as mentioned earlier I learned different aspects of js on this project.  
 
