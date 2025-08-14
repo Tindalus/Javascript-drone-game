@@ -1,0 +1,7 @@
+.grid {
+    display: grid;
+    grid-template-columns: repeat(40,50px);
+    grid-template-rows: repeat(40,50px);
+    position: relative;
+  }
+
